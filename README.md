@@ -5,6 +5,9 @@ git init
 git add .      
 git commit -m “你的提交信息”    
 git push   
+origin
+status
+
 
 
 https://zhuanlan.zhihu.com/p/111344840   
